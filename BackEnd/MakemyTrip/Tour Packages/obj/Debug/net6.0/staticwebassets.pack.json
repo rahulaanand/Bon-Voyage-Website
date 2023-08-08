@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\088947b1-7705-47fe-9d5a-5667983b10e3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\088947b1-7705-47fe-9d5a-5667983b10e3.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\19377436-ac04-485d-a18e-7aa5cde7070c.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\19377436-ac04-485d-a18e-7aa5cde7070c.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\1a52e0c6-ab43-4134-841a-9211fcab7a69.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1a52e0c6-ab43-4134-841a-9211fcab7a69.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\346b5241-8305-4d41-8f2b-b8a2b6df6849.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\346b5241-8305-4d41-8f2b-b8a2b6df6849.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\55f2fce6-b9b5-443b-8783-65a13b5cce96.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\55f2fce6-b9b5-443b-8783-65a13b5cce96.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\596343e9-65b6-47f5-8fca-1c189a651f4a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\596343e9-65b6-47f5-8fca-1c189a651f4a.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\796b7d90-d250-4321-b83a-4b69b919ea0b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\796b7d90-d250-4321-b83a-4b69b919ea0b.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\7d9a636c-f512-4ef9-9d19-0b682d16a548.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\7d9a636c-f512-4ef9-9d19-0b682d16a548.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\a88da7c9-2051-4424-934f-0bfe6fcfce4f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a88da7c9-2051-4424-934f-0bfe6fcfce4f.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\b2bad48c-17fa-4378-933e-51402d34f3f0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\b2bad48c-17fa-4378-933e-51402d34f3f0.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\c4372d3b-947e-4742-9744-381de8d4ae4f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c4372d3b-947e-4742-9744-381de8d4ae4f.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\c63ef194-2299-493f-b7cf-3d776ce7a305.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c63ef194-2299-493f-b7cf-3d776ce7a305.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\d3d952cc-de1a-4822-aa41-7466b7ec481a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d3d952cc-de1a-4822-aa41-7466b7ec481a.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\Tour Packages\\wwwroot\\Uploads\\eb388e6a-cdcc-4ba8-abb2-90c00a2138c8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\eb388e6a-cdcc-4ba8-abb2-90c00a2138c8.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tour Packages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Tour Packages.props",
+      "PackagePath": "build\\Tour Packages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Tour Packages.props",
+      "PackagePath": "buildMultiTargeting\\Tour Packages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Tour Packages.props",
+      "PackagePath": "buildTransitive\\Tour Packages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

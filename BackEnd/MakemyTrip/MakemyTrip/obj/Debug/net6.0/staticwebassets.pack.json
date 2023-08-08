@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\180aa363-a519-413a-85c4-9deec572eff4.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\180aa363-a519-413a-85c4-9deec572eff4.jpeg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\1faa20a6-4995-4890-8d06-431c0f0b9bba.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1faa20a6-4995-4890-8d06-431c0f0b9bba.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\209b2c96-38ee-403e-9023-8e7086f10513.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\209b2c96-38ee-403e-9023-8e7086f10513.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\4da70f58-95d9-4b8e-b2d0-154501510ed8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4da70f58-95d9-4b8e-b2d0-154501510ed8.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\5468c631-b257-40ae-9da2-0f344f5c6d5b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\5468c631-b257-40ae-9da2-0f344f5c6d5b.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\55dc8bc6-64ab-49a5-8b90-c755cece36a4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\55dc8bc6-64ab-49a5-8b90-c755cece36a4.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\64ceed2c-62de-4b02-96c9-fab6bf3e9d4d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\64ceed2c-62de-4b02-96c9-fab6bf3e9d4d.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\74550fce-8326-46c5-8de6-f5de09ba1edf.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\74550fce-8326-46c5-8de6-f5de09ba1edf.jpeg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\770f0f28-3f9e-40ad-a269-9ab395376063.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\770f0f28-3f9e-40ad-a269-9ab395376063.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\85be83a7-49cc-4a3c-a842-3c25cc67c4b7.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\85be83a7-49cc-4a3c-a842-3c25cc67c4b7.jpeg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\89a96c2e-1b92-4dac-975e-b7dcefc727c2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\89a96c2e-1b92-4dac-975e-b7dcefc727c2.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\a8569966-1677-4bd5-a439-878e9b098036.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a8569966-1677-4bd5-a439-878e9b098036.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\a88a7dac-79f4-4db8-8e96-6eb824aa77d2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a88a7dac-79f4-4db8-8e96-6eb824aa77d2.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\bfcd6eb7-6121-4a7a-ad99-ad81f4ed25f9.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bfcd6eb7-6121-4a7a-ad99-ad81f4ed25f9.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\cc639a86-cf45-44f1-b0c7-8381f03e3de6.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\cc639a86-cf45-44f1-b0c7-8381f03e3de6.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\e91ca27b-090f-47ef-991b-440bf9137ed7.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e91ca27b-090f-47ef-991b-440bf9137ed7.jpg"
+    },
+    {
+      "Id": "D:\\Source\\Repos\\MakemyTrip\\MakemyTrip\\wwwroot\\Uploads\\f6b3fa65-4943-4d9e-ac42-f72cab230ceb.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f6b3fa65-4943-4d9e-ac42-f72cab230ceb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MakemyTrip.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MakemyTrip.props",
+      "PackagePath": "build\\MakemyTrip.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MakemyTrip.props",
+      "PackagePath": "buildMultiTargeting\\MakemyTrip.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MakemyTrip.props",
+      "PackagePath": "buildTransitive\\MakemyTrip.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
